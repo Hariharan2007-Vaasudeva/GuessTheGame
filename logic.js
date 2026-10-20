@@ -2,7 +2,7 @@ var num = document.getElementById("guess");
 var result = document.getElementById("result");
 var random = Math.floor(Math.random() * 10);
 var score = document.getElementById("score");
-var totalscore = 20;
+var totalscore = 10;
 
 function check() {
   var enternum = num.value;
