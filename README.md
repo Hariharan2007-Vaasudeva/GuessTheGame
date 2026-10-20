@@ -16,3 +16,4 @@ I created this game to practice my frontend development skills and make somethin
 Feel free to check it out and give it a try!
 ---
 **Made with ❤️ by RS Hariharan**
+              **Thank You❤️**
