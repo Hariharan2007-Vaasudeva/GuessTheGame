@@ -1,0 +1,80 @@
+body {
+  font-family: "Isometra", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  padding-top: 100px;
+  margin: 0;
+  min-height: 100vh;
+  background-image: url("Neon Digital Galaxy Frame.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.Title {
+  text-align: center;
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+
+.inpt {
+  text-align: center;
+  margin-top: 40px;
+  box-shadow: rgb(204, 204, 224);
+  border-color: 1px salmon;
+}
+
+.butn {
+  text-align: center;
+  margin-top: 40px;
+  border-radius: 12px;
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 12px;
+}
+
+.reslt {
+  text-align: center;
+  margin-top: 40px;
+  font-family: "Bitcount Ink", system-ui;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+}
+
+.scor {
+  text-align: center;
+  margin-top: 40px;
+  font-family: "Bitcount Ink", system-ui;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+}
