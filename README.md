@@ -1,7 +1,7 @@
 # 🎯 Guess The Number
 A small game I built using HTML, CSS, and JavaScript. Give it a try and see if your guess is right! 😜
 ## 🎮 Play Now
-👉 **[Let's Play](https://guessthe-game.vercel.app/)**
+👉 **[Let's Play](https://guessthe-luckynumber.vercel.app/)**
 ## ✨ Features
 - Simple and interactive gameplay
 - Clean and stylish UI
