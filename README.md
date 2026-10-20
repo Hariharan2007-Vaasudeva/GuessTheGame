@@ -11,7 +11,8 @@ I created this project to practice my frontend development skills and learn how 
 - HTML
 - CSS
 - JavaScript
-## 🚀 How to Run
+## 🚀 How to Play
+guessthe-game.vercel.app
 ## 📚 What I Learned
 While building this project, I practiced HTML structure, CSS styling, and JavaScript interactions.
 ## 👨‍💻 Author
