@@ -1,21 +1,18 @@
 # 🎯 Guess The Number
-A simple and fun number guessing game built using HTML, CSS, and JavaScript.
-I created this project to practice my frontend development skills and learn how to make a website interactive using JavaScript.
+A small game I built using HTML, CSS, and JavaScript. Give it a try and see if your guess is right! 😜
+## 🎮 Play Now
+👉 **[Let's Play](https://guessthe-game.vercel.app/)**
 ## ✨ Features
-- Simple and clean user interface
-- Guess the number and check your answer
-- Interactive game experience
+- Simple and interactive gameplay
+- Clean and stylish UI
 - Score display
-- Custom styling and fonts
-## 🛠️ Technologies Used
+- Fun guessing experience
+## 🛠️ Built With
 - HTML
 - CSS
 - JavaScript
-## 🚀 How to Play
-guessthe-game.vercel.app
-## 📚 What I Learned
-While building this project, I practiced HTML structure, CSS styling, and JavaScript interactions.
-## 👨‍💻 Author
-Hariharan R
+## 🚀 About This Project
+I created this game to practice my frontend development skills and make something fun using JavaScript.
+Feel free to check it out and give it a try!
 ---
-Thanks for checking out my project! 😊
+**Made with ❤️ by RS Hariharan**
